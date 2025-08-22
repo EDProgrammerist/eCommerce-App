@@ -25,6 +25,9 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🔗 [Assets](#links)
 6. 🚀 [More](#more)
+7. Thank you so much for the tutorial https://github.com/JavaScript-Mastery-Pro
+
+
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
